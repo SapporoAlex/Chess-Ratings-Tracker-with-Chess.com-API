@@ -62,7 +62,8 @@ Here's a sample code snippet from `chess_ratings_tracker.py`:
 data = get_player_stats('sapporoalex', tts=0).json
 last_rating_chess_daily = data['stats']['chess_daily']['last']['rating']
 last_rating_chess_rapid = data['stats']['chess_rapid']['last']['rating']
-last_rating_chess_blitz = data['stats']['chess_blitz']['last']['rating']```
+last_rating_chess_blitz = data['stats']['chess_blitz']['last']['rating']
+```
 
 ## Author
 Alex McKinley
