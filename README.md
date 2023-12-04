@@ -5,7 +5,6 @@
 This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts. The Excel file contains daily ratings data for Blitz, Rapid, and Daily chess games, and a summary sheet showing ratings by month.
 
 ## Table of Contents
-
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage)
@@ -15,20 +14,17 @@ This Python script retrieves chess ratings data from chess.com using the chessdo
 - [License](#license)
 
 ## Features
-
 - Retrieves daily ratings data from chess.com API.
 - Updates Excel file with ratings for Blitz, Rapid, and Daily chess games.
 - Generates line charts for each chess category (Blitz, Rapid, Daily) for each day of the current month.
 - Updates an overview sheet on the first day of each month with a summary of ratings.
 
 ## Requirements
-
 - Python 3.x
 - [openpyxl](https://pypi.org/project/openpyxl/)
 - [chessdotcom](https://pypi.org/project/chess.com/)
 
 ## Usage
-
 1. Install the required Python packages:
 
     ```bash
@@ -50,12 +46,10 @@ This Python script retrieves chess ratings data from chess.com using the chessdo
 4. Set up the script to run automatically using the task scheduler or cron job everyday at a specific time.
 
 ## File Structure
-
 - `Chess Ratings YYYY.xlsx`: Excel file containing ratings data and line charts for each month.
 - `chess_ratings_tracker.py`: Python script for retrieving and updating ratings data.
 
 ## Example
-
 Here's a sample code snippet from `chess_ratings_tracker.py`:
 
 ```Client.request_config['headers']['User-Agent'] = 'My Python Application. Contact me at email@example.com'
