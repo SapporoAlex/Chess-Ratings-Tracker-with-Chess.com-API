@@ -1,9 +1,5 @@
 # Chess Ratings Tracker
 
-![Chess Ratings Tracker Logo](https://upload.wikimedia.org/wikipedia/en/6/67/Lewis_chess_queen_.jpg)
-
-
-
 <img scr="https://images.chesscomfiles.com/uploads/v1/blog/291978.333e4ddb.5000x5000o.d095f7d8a591.png" width="500">
 
 
