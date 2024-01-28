@@ -1,6 +1,6 @@
 # Chess Ratings Tracker
 
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redwolf.in%2Fchess-dot-com-logo-white-t-shirt-india&psig=AOvVaw02z-34F3PWXYKbr50au-5d&ust=1706519555438000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCm4fDe_4MDFQAAAAAdAAAAABAK" width="500">
+<img scr="https://www.redwolf.in/image/cache/catalog/marketplace/chess-dot-com/chess-dot-com-logo-white-t-shirt-artwork-500x667.jpg?m=1687858297" width="500">
 
 This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts. The Excel file contains daily ratings data for Blitz, Rapid, and Daily chess games, and a summary sheet showing ratings by month.
 
