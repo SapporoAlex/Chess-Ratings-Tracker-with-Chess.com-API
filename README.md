@@ -2,7 +2,6 @@
 
 <img scr="https://images.chesscomfiles.com/uploads/v1/blog/291978.333e4ddb.5000x5000o.d095f7d8a591.png" width="500">
 
-
 This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts. The Excel file contains daily ratings data for Blitz, Rapid, and Daily chess games, and a summary sheet showing ratings by month.
 
 ## Table of Contents
