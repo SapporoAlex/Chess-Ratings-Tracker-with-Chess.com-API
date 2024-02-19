@@ -1,6 +1,6 @@
 # Chess Ratings Tracker
 
-<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/NathanielGreen/php0hWd9E.png" width="500">
+<img src="https://github.com/SapporoAlex/Chess-Ratings-Tracker-with-Chess.com-API/blob/main/previewchess.jpg" width="500">
 
 This Python script retrieves chess ratings data from chess.com using the chessdotcom API and updates an Excel file with tables and line charts. The Excel file contains daily ratings data for Blitz, Rapid, and Daily chess games, and a summary sheet showing ratings by month.
 
